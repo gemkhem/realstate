@@ -7,7 +7,7 @@ import Agents from './agents/Agents'
 
 const Home = () => {
     return (
-        <div className='w-full min-h-[calc(100vh-8ch)] flex flex-col space-y-16 relative'>
+        <div className='w-full min-h-[calc(100vh-8ch)] flex flex-col space-y-16 relative pb-16'>
             {/* Hero section */}
             <Hero />
 
@@ -24,9 +24,9 @@ const Home = () => {
             <Agents />
 
             {/* extra div */}
-            <div className="w-full py-6 bg-neutral-600">
+            {/* <div className="w-full py-6 bg-neutral-600">
                 j
-            </div>
+            </div> */}
 
         </div>
     )

@@ -43,7 +43,7 @@ const Details = () => {
                             {/* Video */}
                             <div className="space-y-4">
                                 <h3 className="text-xl text-neutral-700 font-semibold">Property Video</h3>
-                                <iframe className='w-full aspect-video rounded-xl' src="https://www.youtube.com/embed/khmji4OgmM4" title="Online Bus Ticket Booking Website using Reactjs and Tailwind CSS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                                {/* <iframe className='w-full aspect-video rounded-xl' src="https://www.youtube.com/embed/khmji4OgmM4" title="Online Bus Ticket Booking Website using Reactjs and Tailwind CSS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> */}
                             </div>
 
                             {/* Review */}
